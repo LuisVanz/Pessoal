@@ -86,6 +86,7 @@ section#sobremim p {
 }
 
 main img.foto {
+    width: 100%; /* ocupa toda a largura do container */
     max-width: 600px;
     display: block;
     margin: auto;
